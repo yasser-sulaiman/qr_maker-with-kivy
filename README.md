@@ -3,4 +3,4 @@ Qr maker GUI converts any url/number/string to qr code with few lines of python 
 it only requires two inputs:
 
 * Link: the string we want to convert
-* Name of QR: what we want to save our qr as.
+* Name of QR: The name of the resulted QR code.
